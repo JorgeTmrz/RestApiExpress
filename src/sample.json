@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "title": "Aliens",
+        "director": "James Cameron",
+        "year": "1696",
+        "rating": "8.5"
+    },
+    {
+        "id" : 2,
+        "title": "The Dark Knight",
+        "director": "Chistopher Nolann",
+        "year": "2008",
+        "rating": "10"
+    }
+]
